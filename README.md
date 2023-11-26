@@ -40,6 +40,11 @@
   <br/><br/><br/>
 </div>
 
+<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishan20&show_icons=true&locale=en&layout=compact" alt="mishan20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishan20&show_icons=true&locale=en" alt="mishan20" /></p>
+
 
 
 
