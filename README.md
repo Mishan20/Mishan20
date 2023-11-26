@@ -5,33 +5,28 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ishan+Senanayaka!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishan20&label=Profile%20views&color=0e75b6&style=flat" alt="mishan20" /> </p>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+<p align="left"> <a href="https://twitter.com/https://twitter.com/senanayaka38949" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/senanayaka38949?logo=twitter&style=for-the-badge" alt="https://twitter.com/senanayaka38949" /></a> </p>
 
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+- 🔭 I’m currently working on [DermScan](https://github.com/Group-No-11)
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+- 🌱 I’m currently learning **React-Native and NodeJs**
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+- 💬 Ask me about **react, flutter, react-native**
+
+- 📫 How to reach me **is.senanayaka.m@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/senanayaka38949" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/senanayaka38949" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishan-senanayaka-936b44267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishan-senanayaka-936b44267/" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishan20&show_icons=true&locale=en" alt="mishan20" /></p>
+
 
  <hr/>
  
