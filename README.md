@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React-Native and NodeJs**
 
-- 💬 Ask me about **react, flutter, react-native**
+- 💬 Ask me about **react, flutter, react-native*
 
 - 📫 How to reach me **is.senanayaka.m@gmail.com**
 
