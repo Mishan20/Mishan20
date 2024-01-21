@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ishan+Senanayaka!;" />
 </h1>
 <h3 align="center" style="color'blue'">A passionate full stack developer student from Sri Lanka 🇱🇰</h3>
-<!-- <img align="right" alt="Coding" width= "400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"> -->
+<img align="right" alt="Coding" width= "400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <br/>
 <br/>
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="mishan20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishan20&label=Profile%20views&color=0e75b6&style=flat" alt="mishan20" /> </p>
 
 - 🔭 I’m currently working on [Coffee_Shop_App](https://github.com/Mishan20/Coffee_Shop_App.git)
 
