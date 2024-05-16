@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **React-Native and NodeJs**
+- 🌱 I’m currently learning **Laravel, SpringBoot, React**
 
 - 💬 Ask me about **react, flutter, react-native**
 
